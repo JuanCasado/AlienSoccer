@@ -1,0 +1,8 @@
+Sensor 1 tiene que estar en el PIN 2.
+Sensor 2 tiene que estar en el PIN 3.
+Sensor 3 tiene que estar en el PIN 4.
+Sensor 4 tiene que estar en el PIN 5.
+Sensor 5 tiene que estar en el PIN 6.
+Sensor 6 tiene que estar en el PIN 7.
+Sensor 7 tiene que estar en el PIN 8.
+Sensor 8 tiene que estar en el PIN 9.

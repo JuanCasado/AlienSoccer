@@ -1,0 +1,6 @@
+
+//Neo pixel
+http://fastled.io/
+
+// hmc5883l Compass
+https://brainy-bits.com/blogs/tutorials/find-your-way-using-the-hmc5883l

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.094488189"
+   height="1052.36220472"
+   id="svg3355"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pcb_shape.svg">
+  <metadata
+     id="metadata3396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="951"
+     id="namedview3394"
+     showgrid="false"
+     inkscape:zoom="0.71173215"
+     inkscape:cx="372.04724"
+     inkscape:cy="216.19369"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3392" />
+  <desc
+     id="desc3357">/Users/mr.blissfulgrin/Dropbox/Alien_Soccer_2017/KiCad/pcb_shape.dxf - scale = 4.200000, origin = (50.000000, 0.000000), auto = True</desc>
+  <defs
+     id="defs3359">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path3362" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3365" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3367" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3369" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <symbol
+       id="*PAPER_SPACE0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g3374">
+    <path
+       d="M 44.645669,1052.362205 699.448819,1052.362205"
+       style="stroke:#000000;fill:none"
+       id="path3376" />
+    <path
+       d="M 699.448819,501.732283 44.645669,501.732283"
+       style="stroke:#000000;fill:none"
+       id="path3378" />
+    <path
+       d="M -0.000000,1007.716535 A 44.645669,44.645669 -0.000000 0 0 44.645669,1052.362205"
+       style="stroke:#000000;fill:none"
+       id="path3380" />
+    <path
+       d="M 44.645669,501.732283 A 44.645669,44.645669 -0.000000 0 0 0.000000,546.377953"
+       style="stroke:#000000;fill:none"
+       id="path3382" />
+    <path
+       d="M 744.094488,546.377953 A 44.645669,44.645669 -0.000000 0 0 699.448819,501.732283"
+       style="stroke:#000000;fill:none"
+       id="path3384" />
+    <path
+       d="M 699.448819,1052.362205 A 44.645669,44.645669 -0.000000 0 0 744.094488,1007.716535"
+       style="stroke:#000000;fill:none"
+       id="path3386" />
+    <path
+       d="M -0.000000,1007.716535 0.000000,546.377953"
+       style="stroke:#000000;fill:none"
+       id="path3388" />
+    <path
+       d="M 744.094488,1007.716535 744.094488,546.377953"
+       style="stroke:#000000;fill:none"
+       id="path3390" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="DEFPOINTS"
+     id="g3392" />
+</svg>
