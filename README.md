@@ -12,7 +12,7 @@ This project was made by a team of three students that I was part of at Complubo
 
 ![Complubot](./Poster/superior_01.jpg "Complubot")
 ![Complubot](./Poster/Robots_01.jpg "Complubot")
-![Complubot](./Alien1.0/Fotos/The\ crew.JPG.png "Complubot")
+![Complubot](./Alien1.0/Fotos/Thecrew.JPG.png "Complubot")
 ![Complubot](./Alien1.0/Fotos/MotoresPlanta.png "Complubot")
 ![Complubot](./Alien1.0/Fotos/PlanataUltraSonidos.png "Complubot")
 ![Complubot](./Alien1.0/Fotos/PlanataUltraSonidos.png "Complubot")
@@ -20,3 +20,6 @@ This project was made by a team of three students that I was part of at Complubo
 ![Complubot](./Alien1.0/Fotos/plantabaja.png "Complubot")
 ![Complubot](./Alien1.0/Fotos/PlanataConAsa.png "Complubot")
 ![Complubot](./Alien1.0/Fotos/PlanataInfrarrojos.png "Complubot")
+![Complubot](./Alien1.0/Media/DSC_522.png "Complubot")
+![Complubot](./Alien1.0/Poster/DSC_0601.png "Complubot")
+![Complubot](./Alien1.0/Fotos/AlienSoccer.png "Complubot")
