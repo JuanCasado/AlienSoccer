@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name Huellas)(type KiCad)(uri ${KIPRJMOD}/Huellas.pretty)(options "")(descr ""))
-)
