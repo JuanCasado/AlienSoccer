@@ -11,4 +11,4 @@ This project was made by a team of three students that I was part of at Complubo
 **Share the video with:** [https://youtu.be/aCtYLtXQVko](https://youtu.be/aCtYLtXQVko "https://youtu.be/aCtYLtXQVko")
 
 ![Complubot](./Poster/superior_01.jpg "Complubot") ![Complubot](./Poster/Robots_01.jpg "Complubot")
-![Complubot](./Alien 1.0/Fotos/MotoresPlanta.png "Complubot") ![Complubot](./Alien 1.0/Fotos/PlanataUltraSonidos.png "Complubot")
+![Complubot](./Alien1.0/Fotos/MotoresPlanta.png "Complubot") ![Complubot](./Alien1.0/Fotos/PlanataUltraSonidos.png "Complubot")
