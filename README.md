@@ -16,7 +16,9 @@ Both robots where identically built and the operated with the same software, any
 * **Ultrasounds:** The robots could measure distances of the walls and detect objects.
 * **Ball sensor:** Each robot had a "donut" of sensor arroun it, the function of this "donut" was to determine the possition and distance of the ball.
 * **UI:** thanks to a set of buttons, a speaker and a circular array of leds we could "talk" to the robot.
-* **Floor sensors:** We had four arrays of 
+* **Floor sensors:** We had four arrays of six sensors each that could read the wite lines of the field.
+* **Motors:** Along with the ball sensors this was one of the critical parts of the robot. The robots had for motor each disposed in an X form to make an omnidirectional platform. Each motor was ruled by one proccesor wich made PID control to the motor, the four motor processors were ruled by another one wich made PID control with the facing possition and the ball position and distance to decide the target velocities of the motors, the processors comunicated by i2c.
+* **Main board:** we had an arduino Mega as master of all the other seven processors, here the robots made the most critical decissions.
 
 [Mr.BlissfulGrin](http://www.mrblissfulgrin.com "mrblissfulgrin")
 
