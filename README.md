@@ -26,10 +26,13 @@ Both robots where identically built and the operated with the same software, any
 
 [Complubot](http://complubot.com/inicio/ "complubot")
 
+## Promotional video
 [![Imperdibles2.0](http://img.youtube.com/vi/aCtYLtXQVko/0.jpg)](http://www.youtube.com/watch?v=aCtYLtXQVko) ![Imperdibles2.0](./Logo.png "Complubot")
 **Share the video with:** [https://youtu.be/aCtYLtXQVko](https://youtu.be/aCtYLtXQVko "https://youtu.be/aCtYLtXQVko")
 
+## Fist tests
 [![FistTest](http://img.youtube.com/vi/rDMKiselTD4/0.jpg)](https://youtu.be/rDMKiselTD4)
+
 **Share the video with:** [https://youtu.be/rDMKiselTD4](https://youtu.be/rDMKiselTD4 "https://youtu.be/rDMKiselTD4")
 
 ![Complubot](./Poster/superior_01.jpg "Complubot")
