@@ -49,3 +49,7 @@ Both robots where identically built and the operated with the same software, any
 ![Complubot](./Alien1.0/Fotos/IMPERDIBLE_ALIEN.png "Complubot")
 ![Complubot](./Alien1.0/Poster/DSC_0601.JPG "Complubot")
 ![Complubot](./Alien1.0/Fotos/AlienSoccer.jpg "Complubot")
+
+Project done by Juan Casado Ballesteros
+
+[Mr.BlissfulGrin](http://www.mrblissfulgrin.com "mrblissfulgrin")
